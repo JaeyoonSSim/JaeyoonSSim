@@ -1,4 +1,6 @@
 # JaeyoonSSim
+
+&#128512;
 Hi, I am a student in POSTECH, South Korea. 
 &#128512;
 
