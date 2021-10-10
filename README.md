@@ -8,9 +8,14 @@ Hi, I'm a student in POSTECH, South Korea.
 ![](https://img.shields.io/github/followers/JaeyoonSSim?style=social)
 
 ### Skills Summary
-(Programming) C, C++, <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>, <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>, MATLAB, OCaml
+(Programming) C, C++, <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>, <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>, MATLAB, <img src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=Ocaml&logoColor=white"/>
+
 (Image Processing) <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+
 (Deep Learning) <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>, <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-(Linux Server) Unix/Linux, <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-(Front-end) <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white"/>, CSS, Django
-(H/W) Arduino, OrCAD
+
+(Linux Server) Unix/<img src="https://img.shields.io/badge/Linux-003366?style=flat-square&logo=Linux&logoColor=white"/>, <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+
+(Front-end) <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/>, <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>, <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+
+(H/W) <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>, OrCAD
