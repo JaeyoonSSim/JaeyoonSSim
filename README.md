@@ -8,6 +8,8 @@ Hi, I'm a student in POSTECH, South Korea.
 ![](https://img.shields.io/github/followers/JaeyoonSSim?style=social)
 
 ### Skills Summary
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 (Programming) C, C++, Python, Java, MATLAB, OCaml
 (Image Processing) OpenCV
 (Deep Learning) Tensorflow, PyTorch
