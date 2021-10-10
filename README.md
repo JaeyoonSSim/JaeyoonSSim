@@ -9,7 +9,8 @@ Hi, I'm a student in POSTECH, South Korea.
 
 ### Skills Summary
 (Programming) C, C++, <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>, <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>, MATLAB, OCaml
-(Image Processing) OpenCV
+
+(Image Processing) <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 (Deep Learning) Tensorflow, PyTorch
 (Linux Server) Unix/Linux, Docker
 (Front-end) HTML, CSS, Django
