@@ -8,7 +8,7 @@ Hi, I'm a student in POSTECH, South Korea.
 ![](https://img.shields.io/github/followers/JaeyoonSSim?style=social)
 
 ### Skills Summary
-(Programming) C, C++, <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>, <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>, MATLAB, <img src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=Ocaml&logoColor=white"/>
+(Programming) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>, <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>, <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>, <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>, MATLAB, <img src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=Ocaml&logoColor=white"/>
 
 (Image Processing) <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 
