@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&text=Jaeyoon%20SSim&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&text=Claude%20SSim&fontSize=50)
 
 &#128640;
 Hi, I am a graduate student belonging to the artifical intelligence and medical imaging(AIMI) lab in POSTECH, South Korea. 
