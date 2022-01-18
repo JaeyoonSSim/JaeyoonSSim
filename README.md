@@ -21,7 +21,7 @@ Hi, I am a graduate student belonging to the artifical intelligence and medical 
 
 - (Deep Learning) <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>, <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 
-- (Linux Server) <img src="https://img.shields.io/badge/Unix-000000?style=flat-square&logo=Unix&logoColor=white"/>, <img src="https://img.shields.io/badge/Linux-003366?style=flat-square&logo=Linux&logoColor=white"/>, <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>, <img src="https://img.shields.io/badge/Cubernates-2496ED?style=flat-square&logo=Cubernates&logoColor=white"/>
+- (Linux Server) <img src="https://img.shields.io/badge/Unix-000000?style=flat-square&logo=Unix&logoColor=white"/>, <img src="https://img.shields.io/badge/Linux-003366?style=flat-square&logo=Linux&logoColor=white"/>, <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>, <img src="https://img.shields.io/badge/Kubernates-326CE5?style=flat-square&logo=Kubernates&logoColor=white"/>
 
 - (Front-end) <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>, <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>, <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
