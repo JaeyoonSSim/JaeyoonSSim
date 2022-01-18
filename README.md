@@ -26,5 +26,7 @@ Hi, I am a graduate student belonging to the artifical intelligence and medical 
 (H/W) <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>, <img src="https://img.shields.io/badge/OrCAD-000000?style=flat-square&logo=OrCAD&logoColor=white"/>
 
 (Personal Blog) https://velog.io/@claude_ssim
+
 (Personal Hompage) https://jaeyoonssim.github.io
+
 (Lab Hompage) http://aimi.postech.ac.kr
