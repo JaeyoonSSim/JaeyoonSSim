@@ -1,11 +1,15 @@
 # JaeyoonSSim
 	
 &#128640;
-Hi, I'm a student in POSTECH, South Korea. 
+Hi, I am a graduate student belonging to the artifical intelligence and medical imaging(AIMI) lab in POSTECH, South Korea. 
 &#128512;
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeyoonSSim&count_bg=%2379C83D&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://img.shields.io/github/followers/JaeyoonSSim?style=social)
+
+### Education 
+(2022 - current) M.S/Ph.D Integrated degree, Graduate School of Artificial Intelligence(A.I.)
+(2017 - 2021) B.S degree, Dept. of Convergence IT Engineering(major in Dept. of Computer Science and Engineering)
 
 ### Skills Summary
 (Programming) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>, <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>, <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>, <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>, <img src="https://img.shields.io/badge/MATLAB-000000?style=flat-square&logo=MATLAB&logoColor=white"/>, <img src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=Ocaml&logoColor=white"/>
