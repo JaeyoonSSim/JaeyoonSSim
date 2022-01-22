@@ -27,7 +27,7 @@ Hi, I am a graduate student belonging to the artifical intelligence and medical 
 
 - (Hardware) <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>, <img src="https://img.shields.io/badge/OrCAD-000000?style=flat-square&logo=OrCAD&logoColor=white"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeyoonSSim&layout=compact&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeyoonSSim&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact
 ---
