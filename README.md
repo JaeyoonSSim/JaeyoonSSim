@@ -9,7 +9,7 @@ Hi, I am a graduate student belonging to the artifical intelligence and medical 
 
 ### Education 
 ---
-- (2022 - current) M.S./Ph.D. Integrated degree, Graduate School of Artificial Intelligence(A.I.)
+- (2022 - current) M.S./Ph.D. Integrated degree, Graduate School of Artificial Intelligence(GSAI)
 
 - (2017 - 2021) B.S. degree, Dept. of Convergence IT Engineering(major in Dept. of Computer Science and Engineering)
 
