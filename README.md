@@ -28,8 +28,6 @@ Hi, I am a graduate student belonging to the artifical intelligence and medical 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeyoonSSim&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contact
----
 [![Blog](https://img.shields.io/badge/Personal-Blog-3cb371)](https://velog.io/@claude_ssim)
 [![Homepage](https://img.shields.io/badge/Personal-Homepage-282828)](https://jaeyoonssim.github.io)
 [![Lab](https://img.shields.io/badge/Lab-Homepage-46d2d2)](http://aimi.postech.ac.kr)
