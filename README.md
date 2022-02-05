@@ -25,8 +25,6 @@ Hi, I am a graduate student belonging to the artifical intelligence and medical 
 
 - (Front-end) <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>, <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>, <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
-- (Hardware) <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>, <img src="https://img.shields.io/badge/OrCAD-000000?style=flat-square&logo=OrCAD&logoColor=white"/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeyoonSSim&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact
