@@ -4,10 +4,6 @@
 Hi, I am a graduate student belonging to the artifical intelligence and medical imaging(AIMI) lab in POSTECH, South Korea. 
 &#128512;
 
-![POSTECH](https://img.shields.io/badge/POSTECH-#B91A4D?style=flat-square&logo=GSAI&logoColor=white")
-![](http://img.shields.io/badge/GSAI-POSTECH-#B91A4D)
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeyoonSSim&count_bg=%2379C83D&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://img.shields.io/github/followers/JaeyoonSSim?style=social)
 
@@ -35,6 +31,6 @@ Hi, I am a graduate student belonging to the artifical intelligence and medical 
 ---
 - (Personal Blog) https://velog.io/@claude_ssim [![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@claude_ssim)
 
-- (Personal Hompage) https://jaeyoonssim.github.io
+- (Personal Hompage) https://jaeyoonssim.github.io [![Homepage](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://jaeyoonssim.github.io)
 
-- (Lab Hompage) http://aimi.postech.ac.kr
+- (Lab Hompage) http://aimi.postech.ac.kr [![Lab Homepage](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://aimi.postech.ac.kr)]
