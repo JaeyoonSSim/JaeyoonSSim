@@ -4,7 +4,7 @@
 Hi, I am a graduate student belonging to the artifical intelligence and medical imaging(AIMI) lab in POSTECH, South Korea. 
 &#128512;
 
-<img src="https://img.shields.io/badge/POSTECH-#B91A4D?style=flat-square&logo=GSAI&logoColor=#000000"/>
+<img src="https://img.shields.io/badge/POSTECH-#B91A4D?style=flat-square&logo=GSAI&logoColor=white"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeyoonSSim&count_bg=%2379C83D&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://img.shields.io/github/followers/JaeyoonSSim?style=social)
@@ -25,7 +25,7 @@ Hi, I am a graduate student belonging to the artifical intelligence and medical 
 
 - (Image Processing) <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 
-- (Front-end) <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>, <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>, <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+- (Front-end) <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>, <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>, <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">, <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeyoonSSim&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
