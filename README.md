@@ -33,7 +33,7 @@ Hi, I am a graduate student belonging to the artifical intelligence and medical 
 
 ### Contact
 ---
-- (Personal Blog) https://velog.io/@claude_ssim
+- (Personal Blog) https://velog.io/@claude_ssim [![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@claude_ssim)
 
 - (Personal Hompage) https://jaeyoonssim.github.io
 
