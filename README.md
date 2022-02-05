@@ -29,8 +29,8 @@ Hi, I am a graduate student belonging to the artifical intelligence and medical 
 
 ### Contact
 ---
-- (Personal Blog) https://velog.io/@claude_ssim [![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@claude_ssim)
+- (Personal Blog) [![Blog](http://img.shields.io/badge/Personal-Blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@claude_ssim)
 
-- (Personal Hompage) https://jaeyoonssim.github.io [![Homepage](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://jaeyoonssim.github.io)
+- (Personal Hompage) [![Homepage](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://jaeyoonssim.github.io)
 
-- (Lab Hompage) http://aimi.postech.ac.kr [![Lab Homepage](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://aimi.postech.ac.kr)]
+- (Lab Hompage) [![Lab Homepage](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](http://aimi.postech.ac.kr)
