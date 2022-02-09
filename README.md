@@ -13,7 +13,7 @@ Hi, I am a graduate student belonging to the artifical intelligence and medical 
 - (2022 - current) M.S./Ph.D. Integrated degree, Graduate School of Artificial Intelligence(GSAI)
 
 - (2017 - 2021) B.S. degree, Dept. of Convergence IT Engineering(CiTE)
-
+<!--
 ### Skills Summary
 ---
 - (Programming Language) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>, <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>, <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>, <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>, <img src="https://img.shields.io/badge/MATLAB-0000FF?style=flat-square&logo=Audi&logoColor=white"/>, <img src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=Ocaml&logoColor=white"/>
@@ -27,7 +27,7 @@ Hi, I am a graduate student belonging to the artifical intelligence and medical 
 - (Front-end) <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>, <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>, <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">, <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeyoonSSim&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 [![Blog](https://img.shields.io/badge/Personal-Blog-3cb371)](https://velog.io/@claude_ssim)
 [![Homepage](https://img.shields.io/badge/Personal-Homepage-282828)](https://jaeyoonssim.github.io)
 [![Lab](https://img.shields.io/badge/Lab-Homepage-46d2d2)](http://aimi.postech.ac.kr)
