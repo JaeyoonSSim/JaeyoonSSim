@@ -5,9 +5,10 @@ Hi, I am a graduate student belonging to the medical imaging and vision(MIV) lab
 &#128512;
 
 [![GSAI](https://img.shields.io/badge/GSAI-POSTECH-c80150)](http://ai.postech.ac.kr)
-<!--[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=simjy98)](https://solved.ac/simjy98)-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeyoonSSim&count_bg=%2379C83D&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://img.shields.io/github/followers/JaeyoonSSim?style=social)
+<!--[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=simjy98)](https://solved.ac/simjy98)-->
+
 <!--
 [![Blog](https://img.shields.io/badge/Personal-Blog-3cb371)](https://velog.io/@claude_ssim)
 [![Homepage](https://img.shields.io/badge/Personal-Homepage-282828)](https://jaeyoonssim.github.io)
