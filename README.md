@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&text=Claude%20SSim&fontSize=50)
 
 &#128640;
-Hi, I am a graduate student belonging to the medical imaging and vision(MIV) lab in POSTECH, South Korea. 
+Hi, I am a graduate student belonging to the Medical Imaging Processing(MIP) lab in POSTECH, South Korea. 
 &#128512;
 
 [![GSAI](https://img.shields.io/badge/GSAI-POSTECH-c80150)](http://ai.postech.ac.kr)
